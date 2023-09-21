@@ -4,7 +4,7 @@ php<!DOCTYPE html>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>MUDA BRASILLL</title>
+        <title>CHANGE BRAZILLLLL</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">

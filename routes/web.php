@@ -26,9 +26,7 @@ Route::get('/teste', function () {
 Route::get('/lista-usuarios', function () {
     $usuarios = User::all();
 
-    dd($usuarios);
+    return view('listaUsuarios', compact('usuarios'));
 
-
-    return "TESTADO" ;
 })->name('lista-usuarios');
 
