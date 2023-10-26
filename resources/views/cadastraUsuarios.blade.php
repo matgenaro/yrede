@@ -13,7 +13,6 @@
 <body>
     <h1 class="w-full text-center text-xl font-bold">Cadastro de Usuários</h1>
 
-    <form class="card-body max-w-md m-auto"  action="" method="post">
     <form class="card-body max-w-md m-auto"  action="{{route('salva-usuario')}}" method="post">
 
         @csrf
